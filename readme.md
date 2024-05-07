@@ -1,4 +1,4 @@
-# Awesome-Robotics-Foundation-Model-From-Scratch [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <!-- omit in toc -->
+# Awesome-Robotics-Foundation-Model-How-To [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of tools, needed to train robotics foundation models from scratch.
 
