@@ -2,7 +2,6 @@
 
 A curated list of tools, needed to train robotics foundation models from scratch.
 
-
 ## Table of Contents
 
 - [Awesome-Robotics-Foundation-Model-How-To ](#awesome-robotics-foundation-model-how-to-)
@@ -13,14 +12,14 @@ A curated list of tools, needed to train robotics foundation models from scratch
     - [Datasets and Benchmarks](#datasets-and-benchmarks)
     - [Training Pipeline and deployment](#training-pipeline-and-deployment)
     - [Simulators and Environments](#simulators-and-environments)
+    - [Tools](#tools)
   - [Contribute](#contribute)
-
 
 ## How to build a foundation model from scratch?
 
 ### Technical Background
 
-|  Date  |       keywords       |    Institute    | Paper                                                                                                                                                                               | Publication |
+|  Date  |       keywords       |    Institute    | Paper | Publication |
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: |
 | 2017-06 |     Transformers     |      Google      | [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)                                                                                                                      |   NeurIPS<br>  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F204e3073870fae3d05bcbc2f6a8e263d9b72e776%3Ffields%3DcitationCount&query=%24.citationCount&label=citation) |
 | 2018-06 |       GPT 1.0       |      OpenAI      | [Improving Language Understanding by Generative Pre-Training](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)                                                 |  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fcd18800a0fe0b668a1cc19f2ec95b5003d0a5035%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)          |
@@ -48,10 +47,12 @@ A curated list of tools, needed to train robotics foundation models from scratch
 | 2023-11 |     Dataset     |   Google DeepMind     | [RoboVQA: Multimodal Long-Horizon Reasoning for Robotics](https://arxiv.org/abs/2311.00899)                                                                                                                      |   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F0b47356f17aea1de66e39e5f182a105c96af8dd3%3Ffields%3DcitationCount&query=%24.citationCount&label=Citations) |
 
 ### Training Pipeline and deployment
+
 |  Date  |       keywords       |    Institute    | Paper                                                                                                                                                                               | Publication |
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: |
-| 2017-06 |     Transformers     |      Google      | [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)                                                                                                                      |   NeurIPS<br>  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F204e3073870fae3d05bcbc2f6a8e263d9b72e776%3Ffields%3DcitationCount&query=%24.citationCount&label=citation) |
+
 | 2018-06 |       GPT 1.0       |      OpenAI      | [Improving Language Understanding by Generative Pre-Training](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)                                                 |  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fcd18800a0fe0b668a1cc19f2ec95b5003d0a5035%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)          |
+| 2024-08 |       LLM       |      Lightning AI et al.      | [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)                                                 |           |
 
 ### Simulators and Environments
 
@@ -60,10 +61,14 @@ A curated list of tools, needed to train robotics foundation models from scratch
 |  |     Mujoco     |      Google      | [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)                                                                                                                      |   NeurIPS<br>  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F204e3073870fae3d05bcbc2f6a8e263d9b72e776%3Ffields%3DcitationCount&query=%24.citationCount&label=citation) |
 | |       Calcin       |      OpenAI      | [Improving Language Understanding by Generative Pre-Training](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)                                                 |   |
 
+### Tools
+
+|  Date  |       keywords       |    Institute    | Paper                                                                                                                                                                               | Publication |
+| :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: |
+|  |     Fog-RT-X     |      BerkleyAutomation      | [Fog-RT-X](https://github.com/BerkeleyAutomation/fog_x/)                                                                                                                      |    |
 
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 This list was generated with the help of [generator-awesome-list](https://github.com/dar5hak/generator-awesome-list).
-
