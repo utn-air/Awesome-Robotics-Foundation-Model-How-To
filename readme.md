@@ -1,10 +1,3 @@
-<style>
-    table {
-        width: 90%;
-        justify-content: space-around;
-    }
-</style>
-
 # Awesome-Robotics-Foundation-Model-How-To [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of tools, needed to train robotics foundation models from scratch.
